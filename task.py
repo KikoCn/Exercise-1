@@ -32,6 +32,3 @@ new_content = " ".join(words)
 with open("result.txt", "w") as f:
   # Write the new content to the file
   f.write(new_content)
-
-# Commit your exercise solution to your GitHub account
-# Enter the URL of your exercise repository in the “Exercise 1 Submission Box”
